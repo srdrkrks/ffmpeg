@@ -12,6 +12,6 @@ ffmpeg version 1.1.1-tessus Copyright (c) 2000-2013 the FFmpeg developers
 Input #0, flv, from 'Comp2.flv':
   Metadata:
     canSeekToEnd    : true
-  Duration: 00:00:24.79, start: 0.000000, bitrate: 2236 kb/s
+  Duration: 00:00:22.26, start: 0.000000, bitrate: 2104 kb/s
     Stream #0:0: Video: vp6a, yuva420p, 1920x1080, 1638 kb/s, 29.97 tbr, 1k tbn, 1k tbc
 At least one output file must be specified
